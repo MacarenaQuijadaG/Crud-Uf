@@ -16,8 +16,7 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
 
 #paso 1
-importar directamente desde Git con su url https://github.com/MacarenaQuijadaG/Crud-Uf.git                
-git pull origin main
+se utiliza el comando git clone más la url 
 
 ## Ejecutando las Pruebas ⚙️
 
