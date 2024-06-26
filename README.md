@@ -35,6 +35,6 @@ Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
 
 - **Macarena Quijada G** - [Macarena Quijada G](https://github.com/MacarenaQuijadaG)
 
----
+--- 
 
 ⌨️ con ❤️ 
